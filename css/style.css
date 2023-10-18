@@ -89,6 +89,11 @@
   width: 41.66%;
 }
 
+header {
+  background: url(../image/header_bg.png) right top no-repeat;
+  background-size: contain;
+}
+
 .col_4 {
   width: 33.33%;
 }
