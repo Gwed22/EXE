@@ -218,12 +218,14 @@ a {
 }
 
 header {
-  background: url(../image/header_bg.png) right top no-repeat;
-  background-size: contain;
+}
+
+a {
+  color: #057b01;
 }
 
 .ot {
-  color: #df6951;
+  color: #6ac869;
 }
 
 .gt {
@@ -315,7 +317,7 @@ header {
 }
 
 .yb {
-  background: #f1a501;
+  background: #1de85e;
 }
 
 .pt_30 {
