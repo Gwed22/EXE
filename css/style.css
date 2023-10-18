@@ -399,11 +399,6 @@ button:hover span:after {
   transition: 0.3s ease-in-out;
 }
 
-.box_decor {
-  position: relative;
-  background: url(../image/orange_decor.png) no-repeat 25% 90%;
-}
-
 .float:hover {
   transform: translateY(-30px);
   transition: 0.3s ease-in-out;
@@ -482,6 +477,10 @@ a:hover {
   left: 80px;
   z-index: 0;
   background-color: #efefef;
+}
+
+.green {
+  color: #057b01;
 }
 
 .w500 {
